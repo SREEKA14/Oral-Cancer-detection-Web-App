@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Backend runtime files
+backend/uploads/
+backend/reports/
+
+# Frontend
+frontend/node_modules/
+
+# Model files (optional if heavy)
+*.pth
+
+# Misc
+*.pdf
+.DS_Store
+
+.env
+backend/reports/
+backend/uploads/
+frontend/node_modules/
+*.pth
+__pycache__/
+*.pyc
+*.pdf
